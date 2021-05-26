@@ -1,0 +1,58 @@
+body
+{
+  background-color:black;
+  
+  
+}
+video{
+    width: 100%;
+    height: auto;
+    position: fixed;
+  
+}
+
+.anime1 .btn:hover{
+    
+    color: #962d2d;
+    
+  
+
+    
+    
+}
+.anime1 .btn {
+ 
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    padding: 12px 24px;
+    border: 4px;
+   border: solid;
+   cursor: pointer;
+   transition: color .5s;
+  
+}
+
+    
+  
+  .name{
+    position: absolute;
+    bottom: -4%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: #faf3f3;
+    font-size: 23px;
+    cursor: pointer;
+ 
+    
+  }
+  
+
+
+  
+  
